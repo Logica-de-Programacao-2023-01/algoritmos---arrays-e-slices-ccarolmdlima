@@ -1,0 +1,15 @@
+Crie um Array de floats com 4 elementos e calcule o produto dos valores armazenados no Array.
+
+package main
+import "fmt"
+
+func main() {
+  array := [4]float64{2,8,20,14}
+  var multiplicacao float64
+  
+  for _, x := range array {
+      multiplicacao = multiplicacao * x
+  }
+  produto := multiplicacao * float64(len(array))
+  fmt.Println("O produto de 2, 8, 20, 14 é", produto)
+}
