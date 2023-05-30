@@ -1,5 +1,3 @@
-Crie um Slice de inteiros com tamanho 10 e imprima o valor mínimo e o valor máximo armazenados no Slice.
-
 package main
 
 import "fmt"
