@@ -1,5 +1,3 @@
-Crie um Array de inteiros com 10 elementos. Calcule e imprima a soma dos elementos nas posições pares do Array.
-
 package main
 
 import "fmt"
