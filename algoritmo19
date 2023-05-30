@@ -1,5 +1,3 @@
-Faça um programa que leia dois arrays de inteiros de tamanho n e gere um terceiro array que seja a soma dos dois primeiros.
-
 package main
 
 import "fmt"
